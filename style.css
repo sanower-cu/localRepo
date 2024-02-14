@@ -1,15 +1,21 @@
 *{
     padding: 0px;
     margin: 0px;
-    color: white;
 }
 
-#navbar{
-    height: 60px;
-    background-color: #0f1111;
+#navbar1{
+    height: 50px;
+    background-color: #101111;
+    color: white;
+}
+#navbar2{
+    height: 40px;
+    background-color: #1e2331;
+    color: white;
 }
 button{
     background-color: #f08804;
+    width: 50px;
 }
 
 #logo{
@@ -17,6 +23,10 @@ button{
     font-size: 30px;
 }
 
-a{
-    margin-right: 200px;
+#small_nav{
+    background-color: rgb(29, 218, 12);
+    height: 7px;
 }
+/* a{
+    margin-right: 200px;
+} */
